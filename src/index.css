@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: Blanka;
+  src: url("./assets/Blanka-Regular.otf");
+}
 
 body {
   background-color: #000000;
